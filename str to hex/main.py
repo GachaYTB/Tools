@@ -1,3 +1,4 @@
+# what are you doing bro 🤨
 path = input('What is the path/string?\n>>> ')
 try:
     readedfilepath = open(path, 'r').read()
